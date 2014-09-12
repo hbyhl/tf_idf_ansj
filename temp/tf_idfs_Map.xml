@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_45" class="java.beans.XMLDecoder"> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <int>1082</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>你好</string> 
+     <float>0.27465308</float> 
+    </void> 
+    <void method="put"> 
+     <string>住宅</string> 
+     <float>0.4023595</float> 
+    </void> 
+    <void method="put"> 
+     <string>办公</string> 
+     <float>0.4023595</float> 
+    </void> 
+    <void method="put"> 
+     <string>开盘</string> 
+     <float>0.4023595</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>52165</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>总价</string> 
+     <float>0.18310206</float> 
+    </void> 
+    <void method="put"> 
+     <string>减</string> 
+     <float>0.26823968</float> 
+    </void> 
+    <void method="put"> 
+     <string>房价</string> 
+     <float>0.26823968</float> 
+    </void> 
+    <void method="put"> 
+     <string>平</string> 
+     <float>0.26823968</float> 
+    </void> 
+    <void method="put"> 
+     <string>抵</string> 
+     <float>0.18310206</float> 
+    </void> 
+    <void method="put"> 
+     <string>解释</string> 
+     <float>0.26823968</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>1640</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>请问</string> 
+     <float>0.3465736</float> 
+    </void> 
+    <void method="put"> 
+     <string>采光</string> 
+     <float>0.54930615</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>52147</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>总价</string> 
+     <float>0.15694462</float> 
+    </void> 
+    <void method="put"> 
+     <string>说</string> 
+     <float>0.22991972</float> 
+    </void> 
+    <void method="put"> 
+     <string>交</string> 
+     <float>0.22991972</float> 
+    </void> 
+    <void method="put"> 
+     <string>房款</string> 
+     <float>0.22991972</float> 
+    </void> 
+    <void method="put"> 
+     <string>＝</string> 
+     <float>0.22991972</float> 
+    </void> 
+    <void method="put"> 
+     <string>抵</string> 
+     <float>0.31388924</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>719</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>请问</string> 
+     <float>0.23104906</float> 
+    </void> 
+    <void method="put"> 
+     <string>该房</string> 
+     <float>0.53647935</float> 
+    </void> 
+    <void method="put"> 
+     <string>采光</string> 
+     <float>0.3662041</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>739</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>链</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>接到</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>位置</string> 
+     <float>0.10986123</float> 
+    </void> 
+    <void method="put"> 
+     <string>不能</string> 
+     <float>0.32188758</float> 
+    </void> 
+    <void method="put"> 
+     <string>项目</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>学学</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>图片</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>定位</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>搜房</string> 
+     <float>0.16094379</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>51690</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>香悦</string> 
+     <float>0.32188758</float> 
+    </void> 
+    <void method="put"> 
+     <string>马坡</string> 
+     <float>0.32188758</float> 
+    </void> 
+    <void method="put"> 
+     <string>顺义</string> 
+     <float>0.32188758</float> 
+    </void> 
+    <void method="put"> 
+     <string>钱一平</string> 
+     <float>0.32188758</float> 
+    </void> 
+    <void method="put"> 
+     <string>四季</string> 
+     <float>0.32188758</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>45451</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>价格</string> 
+     <float>0.53647935</float> 
+    </void> 
+    <void method="put"> 
+     <string>别墅</string> 
+     <float>0.53647935</float> 
+    </void> 
+    <void method="put"> 
+     <string>富式</string> 
+     <float>0.53647935</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>9733</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>请问</string> 
+     <float>0.3465736</float> 
+    </void> 
+    <void method="put"> 
+     <string>地铁</string> 
+     <float>0.804719</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>9403</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>靠近</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>请问</string> 
+     <float>0.06931472</float> 
+    </void> 
+    <void method="put"> 
+     <string>学校</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>位置</string> 
+     <float>0.10986123</float> 
+    </void> 
+    <void method="put"> 
+     <string>列</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>老爸</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>你好</string> 
+     <float>0.10986123</float> 
+    </void> 
+    <void method="put"> 
+     <string>没有</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>医院</string> 
+     <float>0.16094379</float> 
+    </void> 
+    <void method="put"> 
+     <string>改变</string> 
+     <float>0.16094379</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <int>1639</int> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>环境</string> 
+     <float>1.609438</float> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 
